@@ -26,4 +26,4 @@ Report PDF in /Report/
 Screenshots PDF in /screenshots/
 code in /code/
 
-Github repository: https://github.com/madhusri10-gif/LEASE-MANAGEMENT.git
+Github repository: https://github.com/madhusri10-gif/LEASE-MANAGEMENT/tree/main
