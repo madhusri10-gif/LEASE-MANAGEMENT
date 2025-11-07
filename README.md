@@ -1,5 +1,4 @@
-#Project Title: Lease Management System
-
+Project Title: Lease Management System
 
 #Platform: Salesforce
 
@@ -21,3 +20,10 @@ The Lease Management System is a Salesforce-based application designed to stream
 The project leverages Salesforce’s robust features such as custom objects, Lightning components, workflow automation, and Apex triggers to offer a scalable and efficient solution catering to landlords, property managers, and corporate leasing teams.
 
 #mentor name: Mr.R.Manikandan ,University College Of Engineering Ramanathapuram
+
+Deliverables:
+Report PDF in /Report/
+Screenshots PDF in /screenshots/
+code in /code/
+
+Github repository: https://github.com/madhusri10-gif/LEASE-MANAGEMENT.git
