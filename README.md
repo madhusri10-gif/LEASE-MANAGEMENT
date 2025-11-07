@@ -22,8 +22,11 @@ The project leverages Salesforce’s robust features such as custom objects, Lig
 #mentor name: Mr.R.Manikandan ,University College Of Engineering Ramanathapuram
 
 Deliverables:
+
 Report PDF in /Report/
+
 Screenshots PDF in /screenshots/
+
 code in /code/
 
 Github repository:[LEASE MANAGEMENT](https://github.com/madhusri10-gif/LEASE-MANAGEMENT/tree/main)
